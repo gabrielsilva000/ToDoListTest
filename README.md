@@ -42,6 +42,7 @@ Exemplo de cabeçalho:
 
 ## **Requisitos**
 - **.NET Core SDK** para o backend.
+- - **Banco SQLServer: com Uma tabela "dbo.TaskItems" com as Colunas - Id:int, Title: string, Description: String, IsCompleted: boolean, DateCreation: DateTime, ExpirationDate: DateTime .
 
 ---
 
